@@ -9,8 +9,8 @@
 comply with some of the above characteristics.
 - [x] Unit testing.
 - [x] A Docker environment to run the application. Docker Compose would also be appreciated.
-- [] E2E (end-to-end) testing
-- [] Performant for big inputs.
+- [ ] E2E (end-to-end) testing
+- [ ] Performant for big inputs.
 
 ## Command Line Usage
 
