@@ -1,0 +1,10 @@
+{
+    "avg_night": 10,
+    "max_night": 12,
+    "min_night": 8,
+    "requests_ids": [
+        "bookata_XY123",
+        "acme_AAAAA"
+    ],
+    "total_profit": 88
+}

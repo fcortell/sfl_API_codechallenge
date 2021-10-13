@@ -1,0 +1,21 @@
+{
+  "name": "sflapi",
+  "version": "1.0.0",
+  "description": "API developed in order to complete Stayforlong code challenge.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node index.js",
+    "test": "mocha tests/*.js --exit"
+  },
+  "author": "Fermin Cortell",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.12.2",
+    "mocha": "^9.1.2"
+  },
+  "devDependencies": {
+    "supertest": "^6.1.6"
+  }
+}
